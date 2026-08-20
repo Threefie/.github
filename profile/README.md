@@ -54,6 +54,6 @@ DevOps & Tooling    :: Docker, GitHub Actions, pnpm, Turborepo, Biome, Vitest, P
 
 ### **Get in Touch**
 
-* Email: [contact@threefie.dev](mailto:threefie@proton.com)
+* Email: [threefie@proton.com](mailto:threefie@proton.com)
 * Website: not now =)
 * Status: Open for collaborations and ambitious projects.
