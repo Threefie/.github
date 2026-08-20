@@ -1,10 +1,6 @@
 <div align="center">
 
-# `threefie`
-
-**a 3-person it collective • tech & development**
-
-*three minds crafting modern software solutions.*
+[![Gemini-Generated-Image-dcd5lgdcd5lgdcd5-(1).jpg](https://i.postimg.cc/Jz7dMQLs/Gemini-Generated-Image-dcd5lgdcd5lgdcd5-(1).jpg)](https://postimg.cc/GHNjjG9R)
 
 ---
 
@@ -26,11 +22,38 @@ We are **Threefie** — a compact, agile engineering team focused on building cl
 
 ---
 
-### **Tech Stack & Tooling**
+### **Tech Stack & Ecosystem**
 
 ```text
-Languages   :: C++, Python, TypeScript, JavaScript
-Frontend    :: React, Tailwind CSS, Material UI, Next.js
-Backend     :: Node.js, Express, REST APIs, GraphQL
-Engines/App :: Unity, C#
-DevOps      :: Docker, CI/CD, Git
+Languages & Runtime :: TypeScript, Node.js 24 LTS, Python, C++
+Frontend Framework  :: Next.js 15, React 19, Turbopack, next-intl
+UI & Styling        :: Tailwind CSS, shadcn/ui, Motion, Lucide Icons
+3D & Graphics       :: PlayCanvas, @playcanvas/react, glTF-Transform
+Backend & API       :: NestJS 11, Express, REST (Swagger), GraphQL
+Database & ORM      :: Supabase (PostgreSQL), Drizzle ORM, Supavisor
+Caching & Queues    :: Redis (ioredis), BullMQ
+Headless CMS        :: Payload CMS 3
+Auth & Security     :: Supabase Auth, Jose, Cloudflare Turnstile, Helmet
+Cloud & Storage     :: Cloudflare (CDN, Registrar, R2 / S3 API), Railway
+Monitoring & Logs   :: Sentry, PostHog, Pino, UptimeRobot
+Email & Comms       :: Resend, React Email
+DevOps & Tooling    :: Docker, GitHub Actions, pnpm, Turborepo, Biome, Vitest, Playwright
+```
+
+---
+
+### **The Team**
+
+| Member | Role | GitHub |
+|---|---|---|
+| Arsen Buldiak | Co-Founder & Software Engineer | [@Arezzon](https://github.com/Arezzon) |
+| CyberSortir936 | Co-Founder & Software Engineer | [@CyberSortir936](https://github.com/CyberSortir936) |
+| Nazarii | Co-Founder & Software Engineer | [@NazikMGE](https://github.com/NazikMGE) |
+
+---
+
+### **Get in Touch**
+
+* Email: [contact@threefie.dev](mailto:threefie@proton.com)
+* Website: not now =)
+* Status: Open for collaborations and ambitious projects.
